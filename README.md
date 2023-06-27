@@ -4,6 +4,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css)
 
-## Want to learn 🧠
+## Want to learn 🧠   
 
-![My Skills](https://skillicons.dev/icons?i=kotlin,java,rust,js,git)
+![My Skills](https://skillicons.dev/icons?i=kotlin,java,rust,js,git)  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=1000&color=000000&vCenter=true&repeat=false&width=435&height=19&lines=+++.+.+.)](https://git.io/typing-svg)
