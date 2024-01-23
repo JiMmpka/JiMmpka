@@ -1,9 +1,28 @@
-<img alt="Hello I'm Paweł" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=217397&width=435&lines=Hello+i'm+Pawe%C5%82">
+<br/>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20i'm%20Paweł;Continuous%20development&font=Fira%20Code&center=true&width=440&height=45&color=2E8EF7FF&vCenter=true&pause=1000&size=28" /></a>
+</p>
 
-## Stuff I know (and I'm still exploring) 🔍
+<br/>
+ 
+<h2 align="center"> Stuff I know (and I'm still exploring) 🔍</h2>
 
-![My Skills](https://skillicons.dev/icons?i=git,github,cpp,python,html,css)
+<br/>
 
-## Want to learn 🧠   
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,cpp,python,html,css" />
+  </a>
+</p>
 
-![My Skills](https://skillicons.dev/icons?i=kotlin,java,rust,js,cs)  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=000000&vCenter=true&width=435&height=19&lines=+++.+.+.)](https://git.io/typing-svg)
+<h2 align="center"> Want to learn 🧠</h2>
+
+<br/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,r,rust,js,cs"/>
+  </a>
+</p>
