@@ -13,7 +13,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=autocad,git,github,cpp,python,html,css" />
+    <img src="https://skillicons.dev/icons?i=autocad,git,github,cpp,html,css" />
+  </a>
+</p>
+
+<h2 align="center"> Stuff I,m learning 📈</h2>
+
+<br/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
   </a>
 </p>
 
@@ -23,7 +33,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,r,rust,js,cs"/>
+    <img src="https://skillicons.dev/icons?i=r,rust,java,js,cs,kotlin"/>
   </a>
 </p>
 <br/>
