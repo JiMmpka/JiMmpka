@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,mysql,python" />
+    <img src="https://skillicons.dev/icons?i=js,php,mysql" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,rust,java,cs,kotlin"/>
+    <img src="https://skillicons.dev/icons?i=python,r,rust,java,cs,kotlin"/>
   </a>
 </p>
 <br/>
