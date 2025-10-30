@@ -1,8 +1,9 @@
 <br/>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20i'm%20Paweł;Continuous%20development&font=Fira%20Code&center=true&width=440&height=45&color=2E8EF7FF&vCenter=true&pause=1000&size=28" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hello+i'm+Pawe%C5%82;Continuous+development" alt="Typing SVG" />
+  </a>
 </p>
 
 <br/>
@@ -23,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,php,mysql" />
   </a>
 </p>
 
