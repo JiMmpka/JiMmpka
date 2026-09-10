@@ -6,6 +6,28 @@
   </a>
 </p>
 
+<h2 align="center">My projects</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/JiMmpka/NASA_APOD_Explorer"><strong>🚀 NASA APOD Explorer</strong></a>
+      <br/><br/>
+      <a href="https://github.com/JiMmpka/NASA_APOD_Explorer">View repository →</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/JiMmpka/Book-Notes"><strong>📚 Book Notes</strong></a>
+      <br/><br/>
+      <a href="https://github.com/JiMmpka/Book-Notes">View repository →</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/JiMmpka/Blog-web-app"><strong>✍️ Blog Web App</strong></a>
+      <br/><br/>
+      <a href="https://github.com/JiMmpka/Blog-web-app">View repository →</a>
+    </td>
+  </tr>
+</table>
+
 <br/>
  
 <h2 align="center"> Stuff I know (and I'm still exploring) 🔍</h2>
