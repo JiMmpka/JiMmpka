@@ -8,25 +8,11 @@
 
 <h2 align="center">My projects</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/JiMmpka/NASA_APOD_Explorer"><strong>🚀 NASA APOD Explorer</strong></a>
-      <br/><br/>
-      <a href="https://github.com/JiMmpka/NASA_APOD_Explorer">View repository →</a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/JiMmpka/Book-Notes"><strong>📚 Book Notes</strong></a>
-      <br/><br/>
-      <a href="https://github.com/JiMmpka/Book-Notes">View repository →</a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/JiMmpka/Blog-web-app"><strong>✍️ Blog Web App</strong></a>
-      <br/><br/>
-      <a href="https://github.com/JiMmpka/Blog-web-app">View repository →</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/JiMmpka/NASA_APOD_Explorer"><img src="./assets/nasa-card.svg" width="260" alt="NASA APOD Explorer — View repository" /></a>
+  <a href="https://github.com/JiMmpka/Book-Notes"><img src="./assets/books-card.svg" width="260" alt="Book Notes — View repository" /></a>
+  <a href="https://github.com/JiMmpka/Blog-web-app"><img src="./assets/blog-card.svg" width="260" alt="Blog Web App — View repository" /></a>
+</p>
 
 <br/>
  
