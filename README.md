@@ -9,9 +9,9 @@
 <h2 align="center">My projects</h2>
 
 <p align="center">
-  <a><img src="./assets/nasa-card.svg?v=2" width="240" alt="NASA APOD Explorer" /></a>&nbsp;&nbsp;
-  <a><img src="./assets/books-card.svg?v=2" width="240" alt="Book Notes" /></a>&nbsp;&nbsp;
-  <a><img src="./assets/blog-card.svg?v=2" width="240" alt="Blog Web App" /></a>
+  <a href="https://github.com/JiMmpka/NASA_APOD_Explorer"><img src="./assets/nasa-card.svg?v=2" width="240" alt="NASA APOD Explorer" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/JiMmpka/Book-Notes"><img src="./assets/books-card.svg?v=2" width="240" alt="Book Notes" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/JiMmpka/Blog-web-app"><img src="./assets/blog-card.svg?v=2" width="240" alt="Blog Web App" /></a>
   <br/>
   <a href="https://github.com/JiMmpka/NASA_APOD_Explorer"><img src="./assets/nasa-repo.svg" width="118" alt="NASA APOD Explorer: Repo" /></a>
   <a href="https://nasa-apod-explorer-3oku.onrender.com"><img src="./assets/nasa-demo.svg" width="118" alt="NASA APOD Explorer: Live demo" /></a>&nbsp;&nbsp;
