@@ -8,25 +8,18 @@
 
 <h2 align="center">My projects</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="./assets/nasa-card.svg" width="240" alt="NASA_APOD_Explorer" /><br/>
-      <a href="https://github.com/JiMmpka/NASA_APOD_Explorer"><img src="./assets/nasa-repo.svg" width="110" alt="NASA_APOD_Explorer: Repo" /></a>
-      <a href="https://nasa-apod-explorer-3oku.onrender.com"><img src="./assets/nasa-demo.svg" width="110" alt="NASA_APOD_Explorer: Live demo" /></a>
-    </td>
-    <td align="center">
-      <img src="./assets/books-card.svg" width="240" alt="Book-Notes" /><br/>
-      <a href="https://github.com/JiMmpka/Book-Notes"><img src="./assets/books-repo.svg" width="110" alt="Book-Notes: Repo" /></a>
-      <a href="https://book-notes-fms4.onrender.com/"><img src="./assets/books-demo.svg" width="110" alt="Book-Notes: Live demo" /></a>
-    </td>
-    <td align="center">
-      <img src="./assets/blog-card.svg" width="240" alt="Blog-web-app" /><br/>
-      <a href="https://github.com/JiMmpka/Blog-web-app"><img src="./assets/blog-repo.svg" width="110" alt="Blog-web-app: Repo" /></a>
-      <a href="https://blog-web-app-busm.onrender.com"><img src="./assets/blog-demo.svg" width="110" alt="Blog-web-app: Live demo" /></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a><img src="./assets/nasa-card.svg?v=2" width="240" alt="NASA APOD Explorer" /></a>&nbsp;&nbsp;
+  <a><img src="./assets/books-card.svg?v=2" width="240" alt="Book Notes" /></a>&nbsp;&nbsp;
+  <a><img src="./assets/blog-card.svg?v=2" width="240" alt="Blog Web App" /></a>
+  <br/>
+  <a href="https://github.com/JiMmpka/NASA_APOD_Explorer"><img src="./assets/nasa-repo.svg" width="118" alt="NASA APOD Explorer: Repo" /></a>
+  <a href="https://nasa-apod-explorer-3oku.onrender.com"><img src="./assets/nasa-demo.svg" width="118" alt="NASA APOD Explorer: Live demo" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/JiMmpka/Book-Notes"><img src="./assets/books-repo.svg" width="118" alt="Book Notes: Repo" /></a>
+  <a href="https://book-notes-fms4.onrender.com/"><img src="./assets/books-demo.svg" width="118" alt="Book Notes: Live demo" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/JiMmpka/Blog-web-app"><img src="./assets/blog-repo.svg" width="118" alt="Blog Web App: Repo" /></a>
+  <a href="https://blog-web-app-busm.onrender.com"><img src="./assets/blog-demo.svg" width="118" alt="Blog Web App: Live demo" /></a>
+</p>
 
 <br/>
  
